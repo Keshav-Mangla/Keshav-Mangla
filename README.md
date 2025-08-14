@@ -1,16 +1,37 @@
-## Hi there 👋
+# Keshav Mangla
+_Final-year BE-IT • Chandigarh University_  
+Aspiring Software Engineer | Java • Spring Boot • React • PostgreSQL
 
-<!--
-**Keshav-Mangla/Keshav-Mangla** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+📫 **Email:** keshavmangla41@gmail.com  
+🔗 **Portfolio/Resume:** [View here](https://your-portfolio-link)  
+💻 **GitHub:** [github.com/Keshav-Mangla](https://github.com/Keshav-Mangla)  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Tech & Tools
+**Languages:** Java, JavaScript, Python  
+**Backend:** Spring Boot, REST, JWT  
+**Frontend:** React, Next.js (basic)  
+**Database:** PostgreSQL, Redis (basic)  
+**Tools:** Git, Postman, Docker, Maven, GitHub Actions  
+
+---
+
+## 🔭 Current Projects 
+
+
+COMING SOON
+
+---
+
+## 📈 How I work
+- Consistent mix of **DSA** + **project features**.  
+- Ship small, testable features every 2–4 weeks.  
+- Open to backend/full-stack internships & fresher roles.
+
+---
+
+## ⚡ Quick Links
+- [Resume](https://your-resume-link)  
+- [LinkedIn](https://www.linkedin.com/in/keshavmangla/)  
+- [Portfolio](https://your-portfolio-link)  
