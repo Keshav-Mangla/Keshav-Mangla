@@ -32,6 +32,6 @@ COMING SOON
 ---
 
 ## ⚡ Quick Links
-- [Resume](https://your-resume-link)  
+- [Resume](https://Keshav_Mangla_Resume[1].pdf)  
 - [LinkedIn](https://www.linkedin.com/in/keshavmangla/)  
 - [Portfolio](https://your-portfolio-link)  
